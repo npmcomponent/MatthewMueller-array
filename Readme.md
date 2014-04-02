@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [matthewmueller/array](http://github.com/matthewmueller/array). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/matthewmueller-array`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # array [![Build Status](https://secure.travis-ci.org/MatthewMueller/array.png?branch=master)](http://travis-ci.org/MatthewMueller/array) [![Build Status](https://david-dm.org/MatthewMueller/array.png)](https://david-dm.org/MatthewMueller/array) [![NPM version](https://badge.fury.io/js/array.js.png)](http://badge.fury.io/js/array.js)
 
 A better array for the browser and node.js. Supports events & many functional goodies.
